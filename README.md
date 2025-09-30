@@ -22,24 +22,6 @@ Actualmente busco crecer como **Analista de Sistemas / Desarrollador**.
 
 ## 📂 Proyectos Destacados
 
-### 🔹 [Sistema de Backups Automáticos](#)  
-Automatización de copias de seguridad con almacenamiento en la nube.  
-**Tecnologías:** Python, Google Drive API  
-**Logro:** Recuperación de datos de un equipo robado.  
-
----
-
-### 🔹 [Aplicación Web CRUD](#)  
-Gestión de usuarios y tareas con interfaz web.  
-**Tecnologías:** Python, Flask, SQLite, HTML, CSS  
-**Funcionalidad:** Alta, baja, modificación y listado de usuarios/tareas.  
-
----
-
-### 🔹 [Proyectos con Arduino / ESP32](#)  
-Pequeños proyectos de electrónica y software embebido.  
-**Ejemplos:** reloj cuenta regresiva, procesamiento de señales, control de hardware.  
-**Tecnologías:** C, C++, Arduino IDE, ESP32  
 
 ---
 
