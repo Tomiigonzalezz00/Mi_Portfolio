@@ -26,6 +26,7 @@ Modelar y simular el proceso de **descarga de camiones** en un supermercado para
 [Proyecto de simulación](https://github.com/Tomiigonzalezz00/Simulacion-Descarga-de-camiones)
 
 Mis aportes principales
+
 Codificación: desarrollo del script en MATLAB para la simulación de eventos discretos.
 Diagramas: elaboración del diagrama de flujo y esquema del modelo en Simulink.
 Documentación: redacción y estructuración del informe técnico (formulación del problema, hipótesis, metodología, análisis estadístico y resultados).
