@@ -1,7 +1,7 @@
 # Hola, soy Tomás González
 
 Estudiante avanzado de **Ingeniería en Sistemas de Información (UTN)**  
-💻 Apasionado por la **programación, soporte IT y el desarrollo de software**  
+Interesado en la **programación, soporte IT y el desarrollo de software**  
 🔗 [LinkedIn](https://www.linkedin.com/in/tomasngonzalez) | [Email](mailto:gonzalezztomas2000@gmail.com)
 
 ---
