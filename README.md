@@ -1,7 +1,7 @@
 # Hola, soy Tomás González
 
 Estudiante avanzado de **Ingeniería en Sistemas de Información (UTN)**  
-Interesado en la **programación, soporte IT y el desarrollo de software**  
+Apasionado por la **programación, soporte IT y el desarrollo de software**  
 🔗 [LinkedIn](https://www.linkedin.com/in/tomasngonzalez) | [Email](mailto:gonzalezztomas2000@gmail.com)
 
 ---
@@ -54,6 +54,6 @@ En este repositorio se encunetran códigos que realicé a lo largo de la carrera
 
 
 ##  Contacto
-- 📧 gonzalezztomas2000@gmail.com  
+- 📧 [Email](mailto:gonzalezztomas2000@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tomasngonzalez)  
-- 🖥️ GitHub: [github.com/tomasngonzalez](https://github.com/tomasngonzalez)
+- 🖥️ [Github](https://github.com/tomasngonzalez)
