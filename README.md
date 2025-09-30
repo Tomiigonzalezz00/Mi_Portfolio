@@ -22,7 +22,7 @@ Actualmente busco crecer como **Analista de Sistemas / Desarrollador**.
 
 ## 📂 Proyectos Destacados
 **Proyecto de Simulación de minimización de costos mediante simulación:**
-Trabajo en equipo en el cual se modeló y simuló el proceso de **descarga de camiones** en un supermercado para determinar la cantidad óptima de cuadrillas de trabajo que minimiza los costos operativos.
+  Trabajo en equipo en el cual se modeló y simuló el proceso de **descarga de camiones** en un supermercado para determinar la cantidad óptima de cuadrillas de trabajo que minimiza los costos operativos.
 [Proyecto de simulación](https://github.com/Tomiigonzalezz00/Simulacion-Descarga-de-camiones)
 
 *Mis aportes principales:*
