@@ -25,7 +25,7 @@ Actualmente busco crecer como **Analista de Sistemas / Desarrollador**.
 Modelar y simular el proceso de **descarga de camiones** en un supermercado para determinar la cantidad óptima de cuadrillas de trabajo que minimiza los costos operativos.
 [Proyecto de simulación](https://github.com/Tomiigonzalezz00/Simulacion-Descarga-de-camiones)
 
- -*Mis aportes principales:*
+ - *Mis aportes principales:*
 
   - Codificación: desarrollo del script en MATLAB para la simulación de eventos discretos.
   - Diagramas: elaboración del diagrama de flujo y esquema del modelo en Simulink.
