@@ -49,6 +49,7 @@ Actualmente busco crecer como **Analista de Sistemas / Desarrollador**.
 ---
 ## 📂 Otros Códigos
 En este repositorio se encunetran códigos que realicé a lo largo de la carrera, junto con tareas prácticas (como simulaciones en packet tracer) y su correspondiente documentación.
+
 [Mi repositorio](https://github.com/Tomiigonzalezz00/Mi-repositorio.git)
 
 
