@@ -8,7 +8,8 @@ Apasionado por la **programación, soporte IT y el desarrollo de software**
 
 ## Sobre mí
 Soy una persona organizada, responsable y autodidacta. Tengo experiencia en **soporte técnico, automatización de procesos y desarrollo web**.  
-Actualmente busco crecer como **Analista de Sistemas / Desarrollador**.
+Actualmente busco crecer como **Analista de Sistemas / Desarrollador/Infraestructura**. 
+Participé en la planificación (WBS/Gantt) y diseño de dashboards IoT (Thingsboard) para un sistema industrial de control de fluidos en un camión cisterna. Redacté la documentación técnica ERS (IEEE 830) para la plataforma web "Ozono" y realicé la optimización operativa y de costos mediante modelado matemático y simulación de eventos discretos con Matlab para un caso de llegada de camiones a un supermercado.
 
 ---
 
