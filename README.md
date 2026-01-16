@@ -49,7 +49,7 @@ Participé en la planificación (WBS/Gantt) y diseño de dashboards IoT (Thingsb
 
 ---
 ## 📂 Otros Códigos
-En este repositorio se encunetran códigos que realicé a lo largo de la carrera, junto con tareas prácticas (como simulaciones en packet tracer) y su correspondiente documentación.
+En este repositorio se encuentran códigos que realicé a lo largo de la carrera, junto con tareas prácticas (como simulaciones en packet tracer) y su correspondiente documentación.
 
 [Mi repositorio](https://github.com/Tomiigonzalezz00/Mi-repositorio.git)
 
