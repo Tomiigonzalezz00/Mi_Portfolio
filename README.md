@@ -55,4 +55,3 @@ En este repositorio se encuentran códigos que realicé a lo largo de la carrera
 ##  Contacto
 - 📧 [Email](mailto:gonzalezztomas2000@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tomasngonzalez)  
-- 🖥️ [Github](https://github.com/tomasngonzalez)
