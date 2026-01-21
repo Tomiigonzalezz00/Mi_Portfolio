@@ -23,17 +23,17 @@ En resumen, participé en la planificación (WBS/Gantt) y diseño de dashboards 
 
   Desarrolle una aplicación utilizando google apsheet que se utiliza para que los tecnicos puedan crear sus propias ordenes de trabajo directamente desde el sitio, generando a partir de ella un informe junto con un checklist de tareas realizadas.
   *Tareas Principales*: 
-    -Relevamiento y Diagnóstico: Relevamiento de procesos existentes y análisis de lógica de negocios.
-    -Análisis de Viabilidad: Evaluación técnica y económica de herramientas (Análisis Costo-Beneficio).
-    -Arquitectura de Solución: Diseño de una arquitectura híbrida (SaaS + Custom App) integrando Netegia y AppSheet.
-    -Gestión del Proyecto: Creación de Diagrama de Gantt, Matriz de Riesgos y tablero Kanban (Trello) para el seguimiento.
-    -Modelado de Datos: Diseño y creación del esquema de base de datos relacional y estrategia de migración (ETL).
-    -Desarrollo Low-Code: Configuración de la aplicación móvil, lógica de negocio y restricciones de seguridad.
-    -Automatización de Procesos: Configuración de Bots para la generación automática de reportes PDF y notificaciones.
-    -UX/UI: Diseño de interfaces centrado en el usuario de campo para agilizar la carga de datos.
-    -Calidad y Pruebas: Diseño del plan de pruebas (UAT) y estrategia de despliegue con fase piloto.
-    -Documentación: Elaboración de documentación técnica y funcional.
-    -Comunicación: Gestión de expectativas con stakeholders (Gerencia y Técnicos).
+    - Relevamiento y Diagnóstico: Relevamiento de procesos existentes y análisis de lógica de negocios.
+    - Análisis de Viabilidad: Evaluación técnica y económica de herramientas (Análisis Costo-Beneficio).
+    - Arquitectura de Solución: Diseño de una arquitectura híbrida (SaaS + Custom App) integrando Netegia y AppSheet.
+    - Gestión del Proyecto: Creación de Diagrama de Gantt, Matriz de Riesgos y tablero Kanban (Trello) para el seguimiento.
+    - Modelado de Datos: Diseño y creación del esquema de base de datos relacional y estrategia de migración (ETL).
+    - Desarrollo Low-Code: Configuración de la aplicación móvil, lógica de negocio y restricciones de seguridad.
+    - Automatización de Procesos: Configuración de Bots para la generación automática de reportes PDF y notificaciones.
+    - UX/UI: Diseño de interfaces centrado en el usuario de campo para agilizar la carga de datos.
+    - Calidad y Pruebas: Diseño del plan de pruebas (UAT) y estrategia de despliegue con fase piloto.
+    - Documentación: Elaboración de documentación técnica y funcional.
+    - Comunicación: Gestión de expectativas con stakeholders (Gerencia y Técnicos).
 
   
 [Recursos del proyecto]([https://github.com/Tomiigonzalezz00/Ozono])
