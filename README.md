@@ -1,25 +1,22 @@
 # Hola, soy Tomás González
 
-Estudiante avanzado de **Ingeniería en Sistemas de Información (UTN)**  
-Apasionado por la **programación, soporte IT y el desarrollo de software**  
+Estudiante avanzado de Ingeniería en Sistemas | Técnico Electrónico | Analista Funcional & Full Stack Developer 
 🔗 [LinkedIn](https://www.linkedin.com/in/tomasngonzalez) | [Email](mailto:gonzalezztomas2000@gmail.com)
 
 ---
 
 ## Sobre mí
-Soy una persona organizada, responsable y autodidacta. Tengo experiencia en **soporte técnico, automatización de procesos y desarrollo web**.  
-Actualmente busco crecer como **Analista de Sistemas / Desarrollador/Infraestructura**. 
-Participé en la planificación (WBS/Gantt) y diseño de dashboards IoT (Thingsboard) para un sistema industrial de control de fluidos en un camión cisterna. Redacté la documentación técnica ERS (IEEE 29148: 2018) para la plataforma web "Ozono" y realicé la optimización operativa y de costos mediante modelado matemático y simulación de eventos discretos con Matlab para un caso de llegada de camiones a un supermercado.
+Soy un estudiante avanzado de Ingeniería en Sistemas (Cursada Finalizada - Tesis pendiente) y Técnico Electrónico con un perfil híbrido que combina la capacidad analítica para el relevamiento de procesos y la solvencia técnica para el desarrollo de software. Experiencia liderando proyectos de migración de sistemas SaaS, normalización de datos y desarrollo de soluciones IoT. Conocimientos en Python, React y metodologías ágiles, con un enfoque en optimizar la comunicación entre las necesidades del negocio y la implementación técnica.
+En resumen, participé en la planificación (WBS/Gantt) y diseño de dashboards IoT (Thingsboard) para un sistema industrial de control de fluidos en un camión cisterna. Redacté la documentación técnica ERS (IEEE 29148: 2018) para la plataforma web "Ozono" y realicé la optimización operativa y de costos mediante modelado matemático y simulación de eventos discretos con Matlab para un caso de llegada de camiones a un supermercado.
 
 ---
 
 ## Tecnologías y Herramientas
-- **Lenguajes:** Python, C, C++, JavaScript, Haskell, Arduino, MATLAB  
-- **Web:** HTML, CSS, Flask, Django, SQL  
+- **Herramientas y Lenguajes:** Git, GitHub, Trello SQL, Python, APIs REST, Docker, Protocolos (TCP/UDP), HTML, CSS, Python, C, C++, JavaScript, Haskell, Arduino, MATLAB, SQL
 - **Sistemas & IT:** Windows, soporte remoto, redes, backups en la nube, cámaras de seguridad  
-- **Herramientas:** Git, GitHub, Trello  
 
 ---
+## 📂 Proyectos individuales
 
 ## 📂 Proyectos en equipo
 ### Proyecto de minimización de costos de distribución mediante simulación:
