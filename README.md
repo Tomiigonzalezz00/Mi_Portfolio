@@ -12,7 +12,7 @@ En resumen, participé en la planificación (WBS/Gantt) y diseño de dashboards 
 ---
 
 ## Tecnologías y Herramientas
-- **Herramientas y Lenguajes:** Git, GitHub, Trello SQL, Python, APIs REST, Docker, Protocolos (TCP/UDP), HTML, CSS, Python, C, C++, JavaScript, Haskell, Arduino, MATLAB, SQL
+- **Herramientas y Lenguajes:** Git, GitHub, Trello, SQL, Python, APIs REST, Docker, Protocolos (TCP/UDP), HTML, CSS, Python, C, C++, JavaScript, Haskell, Arduino, MATLAB, SQL
 - **Sistemas & IT:** Windows, soporte remoto, redes, backups en la nube, cámaras de seguridad  
 
 ---
