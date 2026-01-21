@@ -19,7 +19,7 @@ En resumen, participé en la planificación (WBS/Gantt) y diseño de dashboards 
 ---
 ## 📂 Proyectos individuales
 
-### Creación de Aplicación "Operaciones en Campo" (En proceso):
+### Desarrollo de Aplicación "Operaciones en Campo" (En proceso):
 
   Desarrolle una aplicación utilizando google apsheet que se utiliza para que los tecnicos puedan crear sus propias ordenes de trabajo directamente desde el sitio, generando a partir de ella un informe junto con un checklist de tareas realizadas.
  
