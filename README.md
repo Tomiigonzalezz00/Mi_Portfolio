@@ -22,7 +22,9 @@ En resumen, participé en la planificación (WBS/Gantt) y diseño de dashboards 
 ### Creación de Aplicación "Operaciones en Campo" (En proceso):
 
   Desarrolle una aplicación utilizando google apsheet que se utiliza para que los tecnicos puedan crear sus propias ordenes de trabajo directamente desde el sitio, generando a partir de ella un informe junto con un checklist de tareas realizadas.
+ 
   *Tareas Principales*: 
+  
    - Relevamiento y Diagnóstico: Relevamiento de procesos existentes y análisis de lógica de negocios.
    - Análisis de Viabilidad: Evaluación técnica y económica de herramientas (Análisis Costo-Beneficio).
    - Arquitectura de Solución: Diseño de una arquitectura híbrida (SaaS + Custom App) integrando Netegia y AppSheet.
