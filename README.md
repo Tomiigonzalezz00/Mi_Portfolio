@@ -1,6 +1,7 @@
 # Hola, soy Tomás González
 
 Estudiante avanzado de Ingeniería en Sistemas | Técnico Electrónico | Analista Funcional & Full Stack Developer 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/tomasngonzalez) | [Email](mailto:gonzalezztomas2000@gmail.com)
 
 ---
